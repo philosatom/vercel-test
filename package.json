@@ -1,0 +1,27 @@
+{
+  "name": "vercel-test",
+  "version": "0.0.1",
+  "description": "Testing Vercel CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philosatom/vercel-test.git"
+  },
+  "keywords": [
+    "vercel",
+    "ci",
+    "actions"
+  ],
+  "author": "Alexey Rodin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philosatom/vercel-test/issues"
+  },
+  "homepage": "https://github.com/philosatom/vercel-test#readme",
+  "devDependencies": {
+    "vercel": "^21.0.1"
+  }
+}
