@@ -3,7 +3,6 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "github": {
-    "enabled": false,
-    "silent": true
+    "enabled": false
   }
 }
